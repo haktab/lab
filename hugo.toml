@@ -1,0 +1,28 @@
+baseURL = '/'
+languageCode = 'es-co'
+title = 'HAKTAB'
+theme = 'paper'
+DefaultContentLanguage = 'es'
+
+[params]
+  color = 'gray'
+  avatar = 'h4kt4b@gmail.com'
+  name = 'Laboratorio comunitario'
+  bio = 'Tejiendo una comunidad para desarrollar proyectos que planteen soluciones innovadoras para el cuidado ambiental, la seguridad digital y autonomía comunitaria desde la perspectiva de la justicia social.'
+
+[menu] 
+
+  [[menu.main]]
+    name = "Acerca de"
+    url = "/acerca/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Proyectos"
+    url = "/proyectos/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Comunidad"
+    url = "/comunidad/"
+    weight = 30
