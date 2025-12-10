@@ -43,13 +43,11 @@ La inclusión es un principio **no negociable**. Haktab no es un club exclusivo,
 
 La **organización nuclear** es el equipo fundador y custodio de la visión, encargado de impulsar el proyecto, asegurar la coherencia filosófica y garantizar la sostenibilidad financiera.
 
-| Enfoque | Miembro |
-| :--- | :--- |
-| **Comunicaciones y Espacio** | Paula Rodríguez |
-| **Presencia Digital y Videos** | Sara Cuervo |
-| **Infraestructura Digital y Web** | Nicolás Vargas |
-| **Gestión Financiera y Audiovisual** | Ferney Saavedra |
-| **Proyectos e Investigación Social** | Issa Lui |
+Paula Rodríguez
+Sara Cuervo
+Nicolás Vargas
+Ferney Saavedra
+Issa Lui
 
 ---
 
